@@ -1,4 +1,4 @@
-# orderbot
+# OrderBot
 
 This repository combines two major components of the OrderBot ecosystem:
 
